@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joan Xavier
-- 👀 I’m a PhD holder interested in Machine Learning, Deep learning and Data Analytics
+- 👀 I’m a PhD holder in Electrical Engineering interested in Machine Learning, Deep learning and Data Analytics
 - 🌱 I’m currently learning Reinforcement Learning
 - 📚 I use to research a lot about Data science and Machine learning to adapt myself in this field.
 - Fun fact: I love to review journal articles and explore the latest happening in the ML Technology in every field
