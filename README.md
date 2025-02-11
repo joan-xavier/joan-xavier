@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @joan-xavier
-- 👀 I’m interested in Machine Learning, Deep learning and Data Analytics 
+- 👀 I’m a PhD holder interested in Machine Learning, Deep learning and Data Analytics
+- 🌱 I’m currently Learning Reinforcement Learning
+- 📚 I use to research a lot about Data science and Machine learning to adapt myself in this field.
+- Fun fact: I love to review journal articles and explore the latest happening in the ML Technology in every field
 
 <!---
 joan-xavier/joan-xavier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
