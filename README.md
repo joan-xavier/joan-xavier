@@ -1,6 +1,6 @@
 # Hi there, I'm Joan Xavier! 👋
 
-## 🚀 About Me
+##  About Me
 
 🎓 **PhD in Electrical Engineering**  
 👀 Highly interested in **Nonlinear Control Systems, Machine Learning, Deep Learning, Data Analytics, and System Identification**  
@@ -19,11 +19,10 @@
 📑 Check out my latest **publications and portfolio** [here](#) *(https://joan-xavier.github.io/portfolio/)*.  
 
 ## 🔥 Fun Facts
-- Love automating tasks with **Python & MATLAB**.
-- Passionate about **teaching, mentoring**, and sharing knowledge in ML, AI, and Data Science.
-- Always exploring the latest **trends in ML/AI** across different industries.
+- Love automating tasks with **Python & MATLAB**.  Always exploring the latest **trends in ML/AI** across different industries.
 
-## 📫 Connect with Me
+
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-My%20Research-blue?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=your-id)  
