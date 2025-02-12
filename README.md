@@ -23,8 +23,8 @@
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joan-of-arc-xavier-59a660277/) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/joan-xavier)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-My%20Research-blue?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=your-id)  
 
 ---
