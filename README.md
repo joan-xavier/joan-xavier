@@ -16,7 +16,7 @@
 
 ## 📖 Publications & Research
 🔬 Published multiple **science citation-indexed research articles** in high-impact factor journals.  
-📑 Check out my latest **publications and portfolio** [here](#) *(https://joan-xavier.github.io/portfolio/)*.  
+📑 Check out my latest **publications and portfolio** [here](https://joan-xavier.github.io/portfolio/) 
 
 ## 🔥 Fun Facts
 - Love automating tasks with **Python & MATLAB**.  Always exploring the latest **trends in ML/AI** across different industries.
