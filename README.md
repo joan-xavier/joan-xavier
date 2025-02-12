@@ -19,9 +19,7 @@
 ## 🔥 Fun Facts
 - Love automating tasks with **Python & MATLAB** and exploring the latest **trends in ML/AI** across different industries.
 
----
-
-                                                            *Always learn, code and innovate technology!*
+                                                *Learn, code and innovate technology!*
 
 
 <!---
