@@ -3,10 +3,10 @@
 ##  About Me
 
 🎓 **PhD in Electrical Engineering**  
-👀 Highly interested in **Nonlinear Control Systems, Machine Learning, Deep Learning, Data Analytics, and System Identification**  
-🤖 Currently learning **Reinforcement Learning** and exploring **Data Science & Machine Learning** to transition into this field.  
+👀 Highly interested in **writing SQL Queries, Machine Learning algorithms and Model Deployment, Deep Learning, Data Analytics, and System Identification**  
+🤖 Currently learning **Tableau** to transition into this field.  
 📚 Passionate about writing **scientific research papers** for high-impact factor journals.  
-💡 Love coding in **Python & MATLAB** for ML/DS-based projects and keeping up with the latest advancements in ML technology.  
+💡 Love coding in **Python & SQL and MATLAB** for ML/DS-based projects and keeping up with the latest advancements in ML technology.  
 🔬 Published multiple **science citation-indexed research articles** in high-impact factor journals.  
 📑 Check out my latest [publications](https://scholar.google.co.in/citations?user=4O4FHQMAAAAJ&hl=en) and [portfolio here](https://joan-xavier.github.io/portfolio/) 
 
