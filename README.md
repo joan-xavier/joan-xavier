@@ -4,7 +4,7 @@
 
 🎓 **PhD in Electrical Engineering**  
 👀 Highly interested in **writing SQL Queries, Machine Learning algorithms and Model Deployment, Deep Learning, Data Analytics, and System Identification**  
-🤖 Currently learning **Tableau** to transition into this field.  
+🤖 **Certified SQL Associate** from DataCamp.  
 📚 Passionate about writing **scientific research papers** for high-impact factor journals.  
 💡 Love coding in **Python & SQL and MATLAB** for ML/DS-based projects and keeping up with the latest advancements in ML technology.  
 🔬 Published multiple **science citation-indexed research articles** in high-impact factor journals.  
